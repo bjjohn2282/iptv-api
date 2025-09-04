@@ -1,9 +1,8 @@
 🕘️更新时间,#genre#
-2025-09-04 18:19:58,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv2
+2025-09-05 06:19:38,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv2
 
 📺央视频道,#genre#
 CCTV-2,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv2
-CCTV-2,http://113.26.202.52:1299/tsfile/live/0002_1.m3u8
 CCTV-3,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv3
 CCTV-4,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4
 CCTV-4,http://121.60.56.116:10001/rtp/239.69.1.138:10466
@@ -17,6 +16,7 @@ CCTV-14,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv14
 CCTV-15,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv15
 CCTV-15,http://121.60.56.116:10001/rtp/239.69.1.155:10566
 CCTV-16,http://121.60.56.116:10001/rtp/239.69.1.247:11124
+CCTV-16,http://106.52.196.79:80/TV/mui.php?id=cctv16
 CCTV-17,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv17
 
 💰央视付费频道,#genre#
@@ -30,25 +30,37 @@ CCTV-17,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv17
 央视台球,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226955/86106661.smil
 风云音乐,http://www.lizhinas.top:1009/rtp/239.252.219.87:5140
 第一剧场,http://www.lizhinas.top:1009/rtp/239.252.219.86:5140
-第一剧场,https://live.tvfix.org/live/cmc/index.m3u8
 风云剧场,http://www.lizhinas.top:1009/rtp/239.252.219.89:5140
+风云剧场,http://sh.lnott.top:880/dx94.m3u8
+风云剧场,http://120.238.94.10:9901/tsfile/live/1090_1.m3u8
+风云剧场,http://dassby.qqff.top:99/live/风云剧场/index.m3u8
+风云剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221226963/86128874.smil
+风云剧场,rtsp://115.153.247.80/PLTV/88888888/224/3221226963/86128874.smil
+风云剧场,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226963/86128874.smil
+风云剧场,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000409?AuthInfo=xxx&userid=gf001&userid=gf001
 怀旧剧场,http://www.lizhinas.top:1009/rtp/239.252.219.90:5140
 女性时尚,http://www.lizhinas.top:1009/rtp/239.252.219.94:5140
 高尔夫网球,http://www.lizhinas.top:1009/rtp/239.252.219.95:5140
-电视指南,http://ygbh.site/php/bfgd.php?id=164
+高尔夫网球,rtsp://115.153.245.70/PLTV/88888888/224/3221226967/86128985.smil
+高尔夫网球,rtsp://115.153.247.80/PLTV/88888888/224/3221226967/86128985.smil
+高尔夫网球,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226967/86128985.smil
 电视指南,rtsp://115.153.245.70/PLTV/88888888/224/3221226969/86129034.smil
 电视指南,rtsp://115.153.247.80/PLTV/88888888/224/3221226969/86129034.smil
 电视指南,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226969/86129034.smil
+电视指南,http://ygbh.site/php/bfgd.php?id=164
 世界地理,http://www.lizhinas.top:1009/rtp/239.252.219.93:5140
+世界地理,http://183.11.239.36:808/hls/11/index.m3u8
+世界地理,http://dassby.qqff.top:99/live/世界地理/index.m3u8
+世界地理,rtsp://115.153.245.70/PLTV/88888888/224/3221226965/86128966.smil
+世界地理,rtsp://115.153.247.80/PLTV/88888888/224/3221226965/86128966.smil
+世界地理,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226965/86128966.smil
 兵器科技,http://www.lizhinas.top:1009/rtp/239.252.219.98:5140
 
 📡卫视频道,#genre#
-湖南卫视,http://113.26.202.52:1299/tsfile/live/0128_1.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-河南卫视,http://lxajh.top/tv/hn.php?id=hnws
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://lxajh.top/tv/hn.php?id=hnws
 江苏卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jsws
-山东卫视,http://113.26.202.52:1299/tsfile/live/0131_1.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 
 ☘️北京频道,#genre#
