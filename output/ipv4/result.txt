@@ -1,15 +1,28 @@
 🕘️更新时间,#genre#
-2025-10-08 06:19:21,http://zqh2333.top:2222/rtp/239.93.24.92:5140
+2025-10-08 18:25:09,http://pa.kuangdeng.top:8081/hls/5/index.m3u8
 
 📺央视频道,#genre#
+CCTV-5,http://pa.kuangdeng.top:8081/hls/5/index.m3u8
+CCTV-5+,http://pa.kuangdeng.top:8081/hls/34/index.m3u8
+CCTV-6,http://pa.kuangdeng.top:8081/hls/6/index.m3u8
+CCTV-8,http://pa.kuangdeng.top:8081/hls/8/index.m3u8
+CCTV-9,http://pa.kuangdeng.top:8081/hls/9/index.m3u8
+CCTV-10,http://pa.kuangdeng.top:8081/hls/10/index.m3u8
+CCTV-11,http://61.156.228.12:8154/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11,http://pa.kuangdeng.top:8081/hls/11/index.m3u8
+CCTV-12,http://pa.kuangdeng.top:8081/hls/12/index.m3u8
+CCTV-13,http://pa.kuangdeng.top:8081/hls/13/index.m3u8
+CCTV-14,http://pa.kuangdeng.top:8081/hls/14/index.m3u8
+CCTV-15,https://60.191.56.186:8888/hls/14/index.m3u8
+CCTV-15,http://pa.kuangdeng.top:8081/hls/15/index.m3u8
 CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 CETV-1,http://221.10.226.195:5000/rtp/239.0.0.51:5140
 CETV-1,http://111.127.156.228:51234/rtp/239.29.0.95:5000
 CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
 CETV-1,http://223.167.245.215:8001/rtp/239.45.1.125:5140
 CETV-2,http://223.167.245.215:8001/rtp/239.45.1.52:5140
-CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 CETV-4,http://221.10.226.195:5000/rtp/239.0.0.98:5140
+CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 CETV-4,http://223.167.245.215:8001/rtp/239.45.1.50:5140
 
 💰央视付费频道,#genre#
@@ -27,7 +40,17 @@ CETV-4,http://223.167.245.215:8001/rtp/239.45.1.50:5140
 高尔夫网球,rtsp://115.153.245.70/PLTV/88888888/224/3221226967/86128985.smil
 高尔夫网球,rtsp://115.153.247.80/PLTV/88888888/224/3221226967/86128985.smil
 高尔夫网球,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226967/86128985.smil
+电视指南,rtsp://115.153.245.70/PLTV/88888888/224/3221226969/86129034.smil
+电视指南,rtsp://115.153.247.80/PLTV/88888888/224/3221226969/86129034.smil
+电视指南,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226969/86129034.smil
 电视指南,http://ygbh.site/php/bfgd.php?id=164
+世界地理,http://61.184.46.85:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
+世界地理,http://183.11.239.36:808/hls/11/index.m3u8
+世界地理,http://dassby.qqff.top:99/live/世界地理/index.m3u8
+世界地理,rtsp://115.153.245.70/PLTV/88888888/224/3221226965/86128966.smil
+世界地理,rtsp://115.153.247.80/PLTV/88888888/224/3221226965/86128966.smil
+世界地理,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226965/86128966.smil
 世界地理,http://ygbh.site/php/bfgd.php?id=177
 兵器科技,http://218.8.87.96:4000/rtp/229.58.190.29:5000
 
@@ -35,10 +58,29 @@ CETV-4,http://223.167.245.215:8001/rtp/239.45.1.50:5140
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 香港卫视,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd://cctv_p2p_hdxianggangweishi
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+重庆卫视,http://pa.kuangdeng.top:8081/hls/47/index.m3u8
+东南卫视,http://pa.kuangdeng.top:8081/hls/48/index.m3u8
+甘肃卫视,http://pa.kuangdeng.top:8081/hls/38/index.m3u8
+广西卫视,http://pa.kuangdeng.top:8081/hls/28/index.m3u8
+海南卫视,http://pa.kuangdeng.top:8081/hls/41/index.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://pa.kuangdeng.top:8081/hls/40/index.m3u8
+吉林卫视,http://pa.kuangdeng.top:8081/hls/31/index.m3u8
+辽宁卫视,http://pa.kuangdeng.top:8081/hls/27/index.m3u8
+宁夏卫视,http://pa.kuangdeng.top:8081/hls/42/index.m3u8
+青海卫视,http://pa.kuangdeng.top:8081/hls/43/index.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
+陕西卫视,http://pa.kuangdeng.top:8081/hls/45/index.m3u8
+深圳卫视,http://pa.kuangdeng.top:8081/hls/21/index.m3u8
+三沙卫视,http://pa.kuangdeng.top:8081/hls/37/index.m3u8
+云南卫视,http://pa.kuangdeng.top:8081/hls/46/index.m3u8
 
 ☘️北京频道,#genre#
+北京卡酷少儿,http://61.184.46.85:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卡酷少儿,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
+北京卡酷少儿,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
+北京卡酷少儿,http://lt.hxtre.com:35455/bptv/10000100000000050000000003904597.m3u8
+北京卡酷少儿,http://58.57.40.22:9901/tsfile/live/1060_1.m3u8
 北京卡酷少儿,http://ygbh.site/php/bfgd.php?id=106
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 北京生活,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
