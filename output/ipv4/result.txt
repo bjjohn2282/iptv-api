@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-22 18:22:32,http://bxtv.3a.ink/migu.php?id=cctv1
+2025-11-23 06:22:20,http://bxtv.3a.ink/migu.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://bxtv.3a.ink/migu.php?id=cctv1
@@ -30,8 +30,8 @@ CETV-1,http://183.184.47.145:8001/rtp/226.0.2.181:9360
 风云音乐,rtsp://115.153.245.70/PLTV/88888888/224/3221226994/86128897.smil
 风云音乐,rtsp://115.153.247.80/PLTV/88888888/224/3221226994/86128897.smil
 风云音乐,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226994/86128897.smil
-第一剧场,http://1.31.14.70:54321/hls/59/index.m3u8
 第一剧场,http://61.184.46.85:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+第一剧场,http://1.31.14.70:54321/hls/59/index.m3u8
 第一剧场,http://dassby.qqff.top:99/live/第一剧场/index.m3u8
 第一剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221226961/86128891.smil
 第一剧场,rtsp://115.153.247.80/PLTV/88888888/224/3221226961/86128891.smil
@@ -42,7 +42,17 @@ CETV-1,http://183.184.47.145:8001/rtp/226.0.2.181:9360
 高尔夫网球,rtsp://115.153.245.70/PLTV/88888888/224/3221226967/86128985.smil
 高尔夫网球,rtsp://115.153.247.80/PLTV/88888888/224/3221226967/86128985.smil
 高尔夫网球,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226967/86128985.smil
+电视指南,rtsp://115.153.245.70/PLTV/88888888/224/3221226969/86129034.smil
+电视指南,rtsp://115.153.247.80/PLTV/88888888/224/3221226969/86129034.smil
+电视指南,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226969/86129034.smil
 电视指南,http://ygbh.site/php/bfgd.php?id=164
+世界地理,http://61.184.46.85:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
+世界地理,http://183.11.239.36:808/hls/11/index.m3u8
+世界地理,http://dassby.qqff.top:99/live/世界地理/index.m3u8
+世界地理,rtsp://115.153.245.70/PLTV/88888888/224/3221226965/86128966.smil
+世界地理,rtsp://115.153.247.80/PLTV/88888888/224/3221226965/86128966.smil
+世界地理,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226965/86128966.smil
 世界地理,http://ygbh.site/php/bfgd.php?id=177
 兵器科技,http://sh.lnott.top:880/dx81.m3u8
 兵器科技,http://120.238.94.10:9901/tsfile/live/1096_1.m3u8
@@ -53,13 +63,15 @@ CETV-1,http://183.184.47.145:8001/rtp/226.0.2.181:9360
 📡卫视频道,#genre#
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 香港卫视,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd://cctv_p2p_hdxianggangweishi
-浙江卫视,http://60.16.0.216:5757/hls/22/index.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8
 
 ☘️北京频道,#genre#
+北京卡酷少儿,http://61.184.46.85:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卡酷少儿,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
+北京卡酷少儿,http://58.57.40.22:9901/tsfile/live/1060_1.m3u8
 北京卡酷少儿,http://ygbh.site/php/bfgd.php?id=106
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 北京生活,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
