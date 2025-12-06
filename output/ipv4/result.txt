@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-06 18:19:39,http://183.220.107.138:4022/rtp/239.11.0.109:5140
+2025-12-07 06:18:46,http://183.220.107.138:4022/rtp/239.11.0.109:5140
 
 📺央视频道,#genre#
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
@@ -31,7 +31,6 @@ CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 世界地理,rtsp://115.153.245.70/PLTV/88888888/224/3221226965/86128966.smil
 世界地理,rtsp://115.153.247.80/PLTV/88888888/224/3221226965/86128966.smil
 世界地理,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226965/86128966.smil
-世界地理,http://61.184.46.85:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 世界地理,http://ygbh.site/php/bfgd.php?id=177
 兵器科技,http://171.125.90.120:6001/rtp/226.0.2.223:9696
 
@@ -45,9 +44,7 @@ CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 
 ☘️北京频道,#genre#
 北京卡酷少儿,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
-北京卡酷少儿,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
 北京卡酷少儿,http://58.57.40.22:9901/tsfile/live/1060_1.m3u8
-北京卡酷少儿,http://61.184.46.85:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卡酷少儿,http://ygbh.site/php/bfgd.php?id=106
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 北京生活,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
@@ -69,6 +66,4 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
-靖天资讯,http://210.61.15.55:50007/li-4gtv-4gtv065/index.m3u8?proxy=true
-靖天资讯,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv065/index.m3u8?proxy=true
-靖天资讯,http://vv.hotinosin.eu.org:10361/li-4gtv-4gtv065/index.m3u8?proxy=true
+靖天资讯,http://210.61.15.55:50007/4gtv-4gtv065/index.m3u8?proxy=true
