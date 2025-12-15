@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-15 06:19:07,http://183.220.107.138:4022/rtp/239.11.0.109:5140
+2025-12-15 18:25:09,http://183.220.107.138:4022/rtp/239.11.0.109:5140
 
 📺央视频道,#genre#
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
@@ -9,14 +9,12 @@ CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8
 CCTV-13,http://144.255.32.94:8288/rtp/239.21.2.3:5002
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8
-CETV-1,https://migu.188766.xyz/
 CETV-1,http://144.255.32.94:8288/rtp/239.21.2.7:5002
-CETV-1,http://116.237.37.244:8888/rtp/239.45.1.125:5140
-CETV-1,http://112.254.55.106:22222/rtp/239.253.254.110:8000
-CETV-1,http://171.125.90.120:6001/rtp/226.0.2.181:9360
 CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
+CETV-1,http://116.237.37.244:8888/rtp/239.45.1.125:5140
+CETV-1,http://171.125.90.120:6001/rtp/226.0.2.181:9360
+CETV-1,http://112.254.55.106:22222/rtp/239.253.254.110:8000
 CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
-CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 CETV-4,http://116.237.37.244:8888/rtp/239.45.1.243:5140
 CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 
@@ -42,8 +40,9 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 高尔夫网球,http://171.125.90.120:6001/rtp/226.0.2.217:9648
 电视指南,http://171.83.103.119:9999/rtp/239.69.1.87:10162
 电视指南,http://171.125.90.120:6001/rtp/226.0.2.218:9656
-世界地理,http://120.76.248.139/live/bfgd/4200000177.m3u8
 世界地理,http://ygbh.site/php/bfgd.php?id=177
+世界地理,http://120.76.248.139/live/bfgd/4200000177.m3u8
+世界地理,http://61.184.46.85:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 世界地理,http://183.11.239.36:808/hls/11/index.m3u8
 世界地理,http://dassby.qqff.top:99/live/世界地理/index.m3u8
@@ -65,10 +64,7 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 西藏卫视,http://cc02.tv12.xyz/9.m3u8
 
 ☘️北京频道,#genre#
-北京卡酷少儿,http://ygbh.site/php/bfgd.php?id=106
-北京卡酷少儿,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
 北京卡酷少儿,http://61.184.46.85:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卡酷少儿,http://58.57.40.22:9901/tsfile/live/1060_1.m3u8
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 北京生活,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
 北京科教,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=btv3&P2PChannelID=pd://cctv_p2p_hdbtv3
@@ -80,9 +76,9 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
-凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
-凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw
+凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
 凤凰资讯,http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
@@ -97,10 +93,9 @@ J2,http://api.kkitv.itv888.vip:8080/streams/48uxa7dlbga/index.m3u8
 Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
-无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=f7b4583df4a36084ee912dbe42ae7432
-无线新闻,http://122.152.202.33/s/81a8a44f/index.m3u8?id=21
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
