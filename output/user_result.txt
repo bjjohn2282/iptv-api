@@ -1,19 +1,19 @@
 🕘️更新时间,#genre#
-2025-12-17 06:20:45,http://183.220.107.138:4022/rtp/239.11.0.109:5140
+2025-12-17 18:24:31,http://183.220.107.138:4022/rtp/239.11.0.109:5140
 
 📺央视频道,#genre#
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
 CCTV-9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
+CCTV-9,https://v4-3ee63cd9178a070a2db29f77915c49d4.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=00846e5f2410e7b0d940bf40dbf81b24
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8
 CCTV-13,http://144.255.32.94:8288/rtp/239.21.2.3:5002
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8
-CETV-1,https://migu.188766.xyz/
 CETV-1,http://144.255.32.94:8288/rtp/239.21.2.7:5002
+CETV-1,http://116.237.37.244:8888/rtp/239.45.1.125:5140
 CETV-1,http://112.254.55.106:22222/rtp/239.253.254.110:8000
 CETV-1,http://171.125.90.120:6001/rtp/226.0.2.181:9360
-CETV-1,http://116.237.37.244:8888/rtp/239.45.1.125:5140
 CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
 CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 CETV-4,http://116.237.37.244:8888/rtp/239.45.1.243:5140
@@ -41,14 +41,13 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 电视指南,http://171.83.103.119:9999/rtp/239.69.1.87:10162
 电视指南,http://171.125.90.120:6001/rtp/226.0.2.218:9656
 世界地理,http://ygbh.site/php/bfgd.php?id=177
-世界地理,http://120.76.248.139/live/bfgd/4200000177.m3u8
-世界地理,http://61.184.46.85:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 世界地理,http://183.11.239.36:808/hls/11/index.m3u8
 世界地理,http://dassby.qqff.top:99/live/世界地理/index.m3u8
 世界地理,rtsp://115.153.245.70/PLTV/88888888/224/3221226965/86128966.smil
 世界地理,rtsp://115.153.247.80/PLTV/88888888/224/3221226965/86128966.smil
 世界地理,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226965/86128966.smil
+世界地理,http://61.184.46.85:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 兵器科技,http://171.83.103.119:9999/rtp/239.69.1.79:10114
 兵器科技,http://171.125.90.120:6001/rtp/226.0.2.223:9696
 
@@ -65,7 +64,7 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 
 ☘️北京频道,#genre#
 北京卡酷少儿,http://ygbh.site/php/bfgd.php?id=106
-北京卡酷少儿,http://61.184.46.85:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卡酷少儿,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
 北京卡酷少儿,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
 北京卡酷少儿,http://58.57.40.22:9901/tsfile/live/1060_1.m3u8
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
@@ -79,14 +78,13 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
-凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
+凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
 凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
 凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
-凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 纬来体育,https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
@@ -95,8 +93,8 @@ J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
-无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=f7b4583df4a36084ee912dbe42ae7432
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
@@ -105,4 +103,5 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
+Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9HvmJFzg3XN8JiR27kog.flv
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
