@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-02-09 06:26:12,https://migu.188766.xyz/
+2026-02-10 06:35:37,http://cc02.tv12.xyz/9.m3u8
 
 📺央视频道,#genre#
-CETV-1,https://migu.188766.xyz/
 
 💰央视付费频道,#genre#
 
@@ -13,8 +12,8 @@ CETV-1,https://migu.188766.xyz/
 
 🌊港·澳·台,#genre#
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
-明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,https://o11.163189.xyz/stream/tvb/mzt/
+明珠台,http://r.jdshipin.com/ZQ4kN
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
