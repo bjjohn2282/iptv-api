@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2026-02-17 18:45:56,https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
+2026-02-18 06:30:21,https://migu.188766.xyz/
 
 📺央视频道,#genre#
+CETV-1,https://migu.188766.xyz/
 
 💰央视付费频道,#genre#
 
