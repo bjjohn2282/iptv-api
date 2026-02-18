@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2026-02-18 18:42:48,https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
+2026-02-19 06:31:05,https://migu.188766.xyz/
 
 📺央视频道,#genre#
+CETV-1,https://migu.188766.xyz/
 
 💰央视付费频道,#genre#
 
@@ -11,7 +12,6 @@
 西藏卫视,http://cc02.tv12.xyz/9.m3u8
 
 ☘️北京频道,#genre#
-北京卡酷少儿,http://k.061899.xyz/k.php?id=bjkk
 
 🌊港·澳·台,#genre#
 明珠台,https://o11.163189.xyz/stream/tvb/mzt/
@@ -20,3 +20,6 @@
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9HvmJFzg3XN8JiR27kog.flv
+靖天资讯,http://pullpackage.alivecdn.com/live/jSi62v69ef4x6iYBScl4GTgr9WaWuRtR1v7DfyIDrCzlEjd4oO.flv
+靖天资讯,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv065
+靖天资讯,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv065
