@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-02-18 06:30:21,https://migu.188766.xyz/
+2026-02-18 18:42:48,https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
 
 📺央视频道,#genre#
-CETV-1,https://migu.188766.xyz/
 
 💰央视付费频道,#genre#
 
@@ -12,6 +11,7 @@ CETV-1,https://migu.188766.xyz/
 西藏卫视,http://cc02.tv12.xyz/9.m3u8
 
 ☘️北京频道,#genre#
+北京卡酷少儿,http://k.061899.xyz/k.php?id=bjkk
 
 🌊港·澳·台,#genre#
 明珠台,https://o11.163189.xyz/stream/tvb/mzt/
