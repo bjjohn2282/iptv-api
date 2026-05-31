@@ -1,20 +1,21 @@
 🕘️更新时间,#genre#
-2026-05-31 06:58:36,http://cdn6.163189.xyz/163189/fct4k
+2026-05-31 19:44:53,http://a.xiongnas.top:8888/rtp/239.3.1.29:8288
 
 📺央视频道,#genre#
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
+四川卫视,http://a.xiongnas.top:8888/rtp/239.3.1.29:8288
 
 ☘️北京频道,#genre#
 
 🌊港·澳·台,#genre#
 翡翠台,http://cdn6.163189.xyz/163189/fct4k
-翡翠台,https://cdn6.163189.xyz/163189/fct
 翡翠台,http://o11.163189.xyz/stream/tvb/fct/
-明珠台,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
+翡翠台,https://cdn6.163189.xyz/163189/fct
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/
+明珠台,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
 明珠台,https://o11.163189.xyz/stream/tvb/mzt/
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
