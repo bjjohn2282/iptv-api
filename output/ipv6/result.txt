@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-01 07:01:24,http://cdn6.163189.xyz/163189/fct4k
+2026-06-01 23:56:24,http://cdn6.163189.xyz/163189/fct4k
 
 📺央视频道,#genre#
 
@@ -11,8 +11,8 @@
 
 🌊港·澳·台,#genre#
 翡翠台,http://cdn6.163189.xyz/163189/fct4k
-翡翠台,https://cdn6.163189.xyz/163189/fct
 翡翠台,http://o11.163189.xyz/stream/tvb/fct/
+翡翠台,https://cdn6.163189.xyz/163189/fct
 明珠台,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/
 明珠台,https://o11.163189.xyz/stream/tvb/mzt/
