@@ -1,9 +1,10 @@
 🕘️更新时间,#genre#
-2026-08-26 06:26:04,http://r.jdshipin.com/ZQ4kN
+2026-08-26 18:32:11,https://7612-5516-affc-d88b.kylintv.tv/live/chinamovie_iphone.m3u8
 
 📺央视频道,#genre#
 
 💰央视付费频道,#genre#
+第一剧场,https://7612-5516-affc-d88b.kylintv.tv/live/chinamovie_iphone.m3u8
 
 📡卫视频道,#genre#
 
