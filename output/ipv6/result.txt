@@ -1,11 +1,12 @@
 🕘️更新时间,#genre#
-2026-08-27 10:53:53,http://r.jdshipin.com/ZQ4kN
+2026-08-28 04:13:36,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 
 📺央视频道,#genre#
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
+青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 
 ☘️北京频道,#genre#
 
