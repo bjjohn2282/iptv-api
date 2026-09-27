@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/bjjohn2282/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-09-27 08:11:28
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-09-27 23:00:34
 https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="📺央视频道",CCTV-16
 https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8
@@ -57,8 +57,6 @@ http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="📡卫视频道",贵州卫视
 https://live.264788.xyz/channel/guizhouweishi
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="📡卫视频道",海南卫视
-http://www.negative.top:50000/rtp/233.50.200.165:5140
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="📡卫视频道",江西卫视
 https://live.264788.xyz/channel/jiangxiweishi
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
@@ -77,8 +75,6 @@ http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 https://live.264788.xyz/channel/shaanxiweishi
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="📡卫视频道",陕西卫视
 http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视.png" group-title="📡卫视频道",四川卫视
-https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="📡卫视频道",西藏卫视
 https://live.264788.xyz/channel/xizangweishi
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="📡卫视频道",新疆卫视
@@ -87,6 +83,8 @@ https://live.264788.xyz/channel/xinjiangweishi
 http://204.12.221.218:8181/3m1080p/btvkk.m3u8
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京新闻.png" group-title="☘️北京频道",北京新闻
 https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
+#EXTINF:-1 tvg-name="北京生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京生活.png" group-title="☘️北京频道",北京生活
+http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=btv7&videoTVChannel=btv7&P2PChannelID=pd://cctv_p2p_hdbtv7&tai=btv7&VideoName=btv7&channelID=btv7
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京生活.png" group-title="☘️北京频道",北京生活
 https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 tvg-name="北京科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京科教.png" group-title="☘️北京频道",北京科教
