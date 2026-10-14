@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-14 08:51:51,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
+2026-10-14 22:53:38,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 
 📺央视频道,#genre#
 
@@ -9,7 +9,6 @@
 青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 
 ☘️北京频道,#genre#
-北京卡酷少儿,http://k.061899.xyz/k.php?id=bjkk
 
 🌊港·澳·台,#genre#
 明珠台,http://r.jdshipin.com/ZQ4kN
